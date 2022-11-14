@@ -8,4 +8,6 @@ digital creative from belgium also doing front-end web dev.
   - design: photoshop, illustrator, blender, adobe premiere, adobe after effects, sony vegas.
 <!-- - 📫 contact: -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowboycrackie&private=true&layout=compact&langs_count=6&theme=cobalt2" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowboycrackie&private=true&layout=compact&langs_count=6&theme=cobalt2" />
+</div>
